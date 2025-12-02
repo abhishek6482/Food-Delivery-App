@@ -1,7 +1,7 @@
 import React from "react";
 import { TrackOrder } from "./TrackOrder";
 import { useNavigate } from "react-router-dom";
-import heroImage from "./hero.jpg";
+import heroImage from "./Hero.jpg";
 import "../App.css";
 
 export const Home = () => {
